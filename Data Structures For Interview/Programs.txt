@@ -1,0 +1,176 @@
+Python Basic Programs
+
+1) Fibonacci Series in Python
+2) Prime Number Program in Python
+3) Palindrome Program in Python
+4) Factorial Program in Python
+5) Armstrong Number in Python
+6) How to Generate Random Number in Python
+
+Python Array Programs
+
+1) Python Program to copy all elements of one array into another array
+2) Python Program to find the frequency of each element in the array
+3) Python Program to left rotate the elements of an array
+4) Python Program to print the duplicate elements of an array
+5) Python Program to print the elements of an array
+6) Python Program to print the elements of an array in reverse order
+7) Python Program to print the elements of an array present on even position
+8) Python Program to print the elements of an array present on odd position
+9) Python Program to print the largest element in an array
+10) Python Program to print the smallest element in an array
+11) Python Program to print the number of elements present in an array
+12) Python Program to print the sum of all the items of the array
+13) Python Program to right rotate the elements of an array
+14) Python Program to sort the elements of an array in ascending order
+15) Python Program to sort the elements of an array in descending order
+16) Python Program to Find 3rd Largest Number in an array
+17) Python Program to Find 2nd Largest Number in an array
+18) Python Program to Find Largest Number in an array
+19) Python to Program Find 2nd Smallest Number in an array
+20) Python Program to Find Smallest Number in an array
+21) Python Program to Remove Duplicate Element in an array
+22) Python Program to Print Odd and Even Numbers from an array
+23) How to Sort an Array in Python
+
+Python Matrix Programs
+
+
+1) Python Matrix Programs
+2) Python Program to Add Two Matrices
+3) Python Program to Multiply Two Matrices
+4) Python Program to subtract the two matrices
+5) Python Program to determine whether two matrices are equal
+6) Python Program to display the lower triangular matrix
+7) Python Program to display the upper triangular matrix
+8) Python Program to find the frequency of odd & even numbers in the given matrix
+9) Python Program to find the product of two matrices
+10) Python Program to find the sum of each row and each column of a matrix
+11) Python Program to find the transpose of a given matrix
+12) Python Program to determine whether a given matrix is an identity matrix
+13) Python Program to determine whether a given matrix is a sparse matrix
+14) Python Program to Transpose matrix
+
+Python Number Programs
+
+1) How to Reverse a Number in Python
+2) nth Prime Number Python
+3) Python Program to Display Alternate Prime Numbers
+4) Python Program to Find Square Root of a Number Without sqrt Method
+4) Python Program to Swap Two Numbers Using Bitwise Operator
+5) Python Program to Find GCD of Two Numbers
+6) Python Program to Find Largest of Three Numbers
+7) Python Program to Find Smallest of Three Numbers Using Ternary Operator
+8) Python Program to Check if a Number is Positive or Negative
+9) Python Program to Check if a Given Number is Perfect Square
+10) Python Program to Display Even Numbers From 1 to 100
+11) Python Program to Display Odd Numbers From 1 to 100
+12) Python Program to Find Sum of Natural Numbers
+
+Python String Programs
+
+1) Python Program to count the total number of characters in a string
+2) Python Program to count the total number of characters in a string 2
+3) Python Program to count the total number of punctuation characters exists in a String
+4) Python Program to count the total number of vowels and consonants in a string
+5) Python Program to determine whether two strings are the anagram
+6) Python Program to divide a string in 'N' equal parts.
+7) Python Program to find all subsets of a string
+8) Python Program to find the longest repeating sequence in a string
+9) Python Program to find all the permutations of a string
+10) Python Program to remove all the white spaces from a string
+11) Python Program to replace lower-case characters with upper-case and vice-versa
+12) Python Program to replace the spaces of a string with a specific character
+13) Python Program to determine whether a given string is palindrome
+14) Python Program to determine whether one string is a rotation of another
+15) Python Program to find maximum and minimum occurring character in a string
+16) Python Program to find Reverse of the string
+17) Python program to find the duplicate characters in a string
+18) Python program to find the duplicate words in a string
+19) Python Program to find the frequency of characters
+20) Python Program to find the largest and smallest word in a string
+21) Python Program to find the most repeated word in a text file
+22) Python Program to find the number of the words in the given text file
+23) Python Program to separate the Individual Characters from a String
+24) Python Program to swap two string variables without using third or temp variable.
+25) Python Program to print smallest and biggest possible palindrome word in a given string
+26) Reverse String in Python Word by Word
+27) Reserve String without reverse() function
+
+Python Searching and Sorting Programs
+
+1) Linear Search in Python
+2) Binary Search in Python
+3) Bubble Sort in Python
+4) Selection Sort in Python
+5) Insertion Sort in Python
+
+
+Python Singly Linked List Programs
+
+1) Singly linked list Examples in Python
+2) Python Program to create and display a singly linked list
+3) Python program to create a singly linked list of n nodes and count the number of nodes
+4) Python program to create a singly linked list of n nodes and display it in reverse order
+5) Python program to delete a node from the beginning of the singly linked list
+6) Python program to delete a node from the middle of the singly linked list
+7) Python program to delete a node from the end of the singly linked list
+8) Python program to determine whether a singly linked list is the palindrome
+9) Python program to find the maximum and minimum value node from a linked list
+10) Python Program to insert a new node at the middle of the singly linked list
+11) Python program to insert a new node at the beginning of the singly linked list
+12) Python program to insert a new node at the end of the singly linked list
+13) Python program to remove duplicate elements from a singly linked list
+14) Python Program to search an element in a singly linked list
+
+Python Circular Linked List Programs
+
+1) Python program to create and display a Circular Linked List
+2) Python program to create a Circular Linked List of N nodes and count the number of nodes
+3) Python program to create a Circular Linked List of n nodes and display it in reverse order
+4) Python program to delete a node from the beginning of the Circular Linked List
+5) Python program to delete a node from the end of the Circular Linked List
+6) Python program to delete a node from the middle of the Circular Linked List
+7) Python program to find the maximum and minimum value node from a circular linked list
+8) Python program to insert a new node at the beginning of the Circular Linked List
+9) Python program to insert a new node at the end of the Circular Linked List
+10) Python program to insert a new node at the middle of the Circular Linked List
+11) Python program to remove duplicate elements from a Circular Linked List
+12) Python program to search an element in a Circular Linked List
+13) Python program to sort the elements of the Circular Linked List
+
+Python Doubly Linked List Programs
+
+1) Python program to convert a given binary tree to doubly linked list
+2) Python program to create a doubly linked list from a ternary tree
+3) Python program to create a doubly linked list of n nodes and count the number of nodes
+4) Python program to create a doubly linked list of n nodes and display it in reverse order
+5) Python program to create and display a doubly linked list
+6) Python program to delete a new node from the beginning of the doubly linked list
+7) Python program to delete a new node from the end of the doubly linked list
+8) Python program to delete a new node from the middle of the doubly linked list
+9) Python program to find the maximum and minimum value node from a doubly linked list
+10) Python program to insert a new node at the beginning of the Doubly Linked list
+10) Python program to insert a new node at the end of the Doubly Linked List
+12) Python program to insert a new node at the middle of the Doubly Linked List
+13) Python program to remove duplicate elements from a Doubly Linked List
+14) Python program to rotate doubly linked list by N nodes
+15) Python program to search an element in a doubly linked list
+16) Python program to sort the elements of the doubly linked list
+
+Python Tree Programs
+
+1) Python Program to calculate the Difference between the Sum of the Odd Level and the Even Level Nodes of a Binary Tree
+2) Python program to construct a Binary Search Tree and perform deletion and In-order traversal
+3) Python program to convert Binary Tree to Binary Search Tree
+4) Python program to determine whether all leaves are at same level
+5) Python program to determine whether two trees are identical
+6) Python program to find maximum width of a binary tree
+7) Python program to find the largest element in a Binary Tree
+8) Python program to find the maximum depth or height of a tree
+9) Python program to find the nodes which are at the maximum distance in a Binary Tree
+10) Python program to find the smallest element in a tree
+11) Python program to find the sum of all the nodes of a binary tree
+12) Python program to find the total number of possible Binary Search Trees with N keys
+13) Python program to implement Binary Tree using the Linked List
+14) Python program to search a node in a Binary Tree
